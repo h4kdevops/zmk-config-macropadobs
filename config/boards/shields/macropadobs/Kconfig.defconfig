@@ -1,4 +1,4 @@
-if SHIELD_MACROETRNTC
+if SHIELD_MACROPADOBS
 
 config ZMK_KEYBOARD_NAME
     default "macropadobs"
