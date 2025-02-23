@@ -1,0 +1,6 @@
+if SHIELD_MACROETRNTC
+
+config ZMK_KEYBOARD_NAME
+    default "macropadobs"
+
+endif

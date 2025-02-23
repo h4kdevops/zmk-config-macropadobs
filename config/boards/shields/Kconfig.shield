@@ -1,0 +1,2 @@
+config SHIELD_MACROPADOBS
+    def_bool $(shields_list_contains, macropadobs)
